@@ -18,6 +18,11 @@ public class MenuCal {
 			System.out.println(suma);
 			break;
 		case 2:
+			System.out.println("INTRODUZCE LA RESTA");
+			num=sc.nextInt();
+			num1=sc.nextInt();
+			suma=num-num1;
+			System.out.println(suma);
 			break;
 		case 3:
 			break;
