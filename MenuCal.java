@@ -11,6 +11,11 @@ public class MenuCal {
 		op=sc.nextInt();
 		switch(op) {
 		case 1:
+			System.out.println("INTRODUZCE LOS SUMANDOS");
+			int num=sc.nextInt();
+			int num1=sc.nextInt();
+			int suma=num+num1;
+			System.out.println(suma);
 			break;
 		case 2:
 			break;
