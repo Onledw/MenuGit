@@ -32,6 +32,11 @@ public class MenuCal {
 			System.out.println(suma);
 			break;
 		case 4:
+			System.out.println("INTRODUZCE LA DIVISIÓN");
+			num=sc.nextInt();
+			num1=sc.nextInt();
+			suma=num/num1;
+			System.out.println(suma);
 			break;
 		case 5:
 			break;
