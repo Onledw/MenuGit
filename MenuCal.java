@@ -25,6 +25,11 @@ public class MenuCal {
 			System.out.println(suma);
 			break;
 		case 3:
+			System.out.println("INTRODUZCE LA MULTIPLICACIÓN");
+			num=sc.nextInt();
+			num1=sc.nextInt();
+			suma=num*num1;
+			System.out.println(suma);
 			break;
 		case 4:
 			break;
